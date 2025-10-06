@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery</title>
-    <link>http://localhost:1313/</link>
+    <link>https://gallery.bobstops.com/</link>
     <description>Recent content on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>info@bobstops.com (BobsTops)</managingEditor>
     <webMaster>info@bobstops.com (BobsTops)</webMaster>
-    <copyright>© BobsTops</copyright><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© BobsTops</copyright><atom:link href="https://gallery.bobstops.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/boats/</link>
+      <link>https://gallery.bobstops.com/boats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@bobstops.com (BobsTops)</author>
-      <guid>http://localhost:1313/boats/</guid>
-        <media:content url="http://localhost:1313/boats/white-orange-blue-back_hu_ce299f0801e49a4c.jpeg" type="image/jpeg"/>
+      <guid>https://gallery.bobstops.com/boats/</guid>
+        <media:content url="https://gallery.bobstops.com/boats/white-orange-blue-back_hu_ce299f0801e49a4c.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/boats/white-orange-blue-back_hu_ce299f0801e49a4c.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://gallery.bobstops.com/boats/white-orange-blue-back_hu_ce299f0801e49a4c.jpeg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cars/</link>
+      <link>https://gallery.bobstops.com/cars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@bobstops.com (BobsTops)</author>
-      <guid>http://localhost:1313/cars/</guid>
-        <media:content url="http://localhost:1313/cars/racer-6_hu_efaa5c3608bc15cd.jpeg" type="image/jpeg"/>
+      <guid>https://gallery.bobstops.com/cars/</guid>
+        <media:content url="https://gallery.bobstops.com/cars/racer-1_hu_f2bf50b0a5173b2.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/cars/racer-6_hu_efaa5c3608bc15cd.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://gallery.bobstops.com/cars/racer-1_hu_f2bf50b0a5173b2.jpeg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
